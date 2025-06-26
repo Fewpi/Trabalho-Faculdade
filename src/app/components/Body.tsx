@@ -18,7 +18,7 @@ export const Body = () => {
                 <div>
                     <h1 className='text-3xl'>Quem sou</h1>
                     <p className='mt-2 text-justify'>
-                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet et perferendis recusandae ducimus harum corporis tenetur quos soluta doloribus suscipit adipisci facilis illum labore, delectus blanditiis eius officia assumenda exercitationem. Lorem ipsum dolor sit amet consectetur adipisicing elit. At quae officia, cum qui explicabo quibusdam blanditiis, laboriosam illo, facere saepe officiis hic illum vero maxime animi iste doloremque laudantium reprehenderit.
+                        Leonardo da Vinci foi um polímata italiano do Renascimento, conhecido como artista, cientista, engenheiro, inventor, anatomista, pintor, escultor, arquiteto, botânico, poeta e músico. Ele é amplamente considerado um dos maiores gênios da história, com contribuições significativas para diversas áreas do conhecimento. 
                     </p>
                 </div>
 
